@@ -1,0 +1,5 @@
+Artificial intelligence is changing the way software is built.
+Machine learning allows computers to learn patterns from data.
+Deep learning uses neural networks to learn complex representations.
+Transformers have become an important architecture for language models.
+Language models learn by predicting the next token in a sequence.
